@@ -5,6 +5,7 @@ export default function Settings() {
   return (
     <View style={styles.container}>
       <Text>Settings</Text>
+      <Text>Em breve!</Text>
       <StatusBar style="auto" />
     </View>
   );

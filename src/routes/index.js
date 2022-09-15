@@ -21,7 +21,7 @@ export default function Routes() {
         }}
       >
         <Tab.Screen
-          name="Home"
+          name="Stocks"
           component={Home}
           options={{
             tabBarIcon: ({ focused }) => (
@@ -34,7 +34,7 @@ export default function Routes() {
           }}
         />
         <Tab.Screen
-          name="MyWallet"
+          name="Detalhes"
           component={MyWallet}
           options={{
             tabBarIcon: ({ focused }) => (

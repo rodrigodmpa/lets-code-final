@@ -5,6 +5,7 @@ export default function Login() {
   return (
     <View style={styles.container}>
       <Text>Login</Text>
+      <Text>Em breve!</Text>
       <StatusBar style="auto" />
     </View>
   );
